@@ -8,11 +8,9 @@ or fax a one-page form to them to get it.
 A lot has changed since then. At some point before the year 2000 I changed
 the site into a single page with some earth science links I found useful. 
 Besides edits over time to update dead links or add a new link or two it's
-essentially stayed the same -- a relic of a simplier time on the web. 
+essentially stayed the same. 
 
-So it goes. 
-
-
-* ~1995		Registered domain.
-* 2011-07-01	Moved site to an S3 bucket.
+* 1997-10-10	Registered domain.
+* 2011-07-01	Moved site to an AWS S3 bucket.
 * 2011-08-18	Moved site "code" to github.
+* 2015-09-17	Removed GA code and updated email.
