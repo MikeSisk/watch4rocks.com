@@ -14,4 +14,4 @@ essentially stayed the same.
 * 2011-07-01	Moved site to an AWS S3 bucket.
 * 2011-08-18	Moved site "code" to github.
 * 2015-09-17	Removed GA code and updated email.
-* 2019-12-03	Added weather links.
+* 2019-12-03	Added AWS CodePipeline between GitHub and S3.
